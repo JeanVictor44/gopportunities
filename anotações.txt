@@ -1,0 +1,1 @@
+go mod init <url do repositório>
